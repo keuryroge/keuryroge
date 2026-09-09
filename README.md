@@ -35,7 +35,7 @@
 <br>
 
 <!-- ========================================================= -->
-<!--                        INTRO                              -->
+<!--                        ABOUT                               -->
 <!-- ========================================================= -->
 
 <h2 align="center">
@@ -128,10 +128,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/keuryroge/roge-sushi">
+  <a href="https://rogesushioficial.netlify.app/">
     <img
-      src="https://img.shields.io/badge/VIEW_PROJECT-006AFF?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Project"
+      src="https://img.shields.io/badge/LIVE_DEMO-006AFF?style=for-the-badge&logo=netlify&logoColor=white"
+      alt="Live Demo"
     />
   </a>
 
@@ -141,6 +141,30 @@
       alt="Source Code"
     />
   </a>
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    PROJECT HIGHLIGHTS                     -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  <code>&gt; PROJECT_HIGHLIGHTS</code>
+</h2>
+
+<p align="center">
+  Responsive Design
+  &nbsp;•&nbsp;
+  Product Search
+  &nbsp;•&nbsp;
+  Category Filtering
+  &nbsp;•&nbsp;
+  Shopping Cart
+  &nbsp;•&nbsp;
+  PT / EN
+  &nbsp;•&nbsp;
+  Light / Dark Theme
 </p>
 
 <br>

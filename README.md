@@ -1,6 +1,6 @@
 <!-- ========================================================= -->
-<!--                    KEURY ROGE                              -->
-<!--             SOFTWARE DEVELOPER PROFILE                    -->
+<!--                     KEURY ROGE                             -->
+<!--              SOFTWARE DEVELOPER PROFILE                   -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -13,8 +13,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=168BFF&center=true&vCenter=true&width=900&lines=Software+Developer;Building+Modern+Web+Experiences;JavaScript+%7C+Python+%7C+Web+Development;Learning.+Building.+Improving."
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=168BFF&center=true&vCenter=true&width=900&lines=Software+Developer;Building+Modern+Digital+Experiences;Web+Development+%7C+JavaScript+%7C+Python;Learning.+Building.+Improving."
+    alt="Typing Animation"
   />
 </p>
 
@@ -35,7 +35,7 @@
 <br>
 
 <!-- ========================================================= -->
-<!--                         ABOUT                             -->
+<!--                        INTRO                              -->
 <!-- ========================================================= -->
 
 <h2 align="center">
@@ -48,33 +48,14 @@
 </p>
 
 <p align="center">
-  I build responsive and modern digital experiences while continuously
-  improving my knowledge of programming, algorithms and software development.
+  I enjoy turning ideas into modern, responsive and functional digital
+  experiences while continuously improving my programming skills.
 </p>
 
 <p align="center">
-  Interested in opportunities where I can contribute to real projects,
-  learn from experienced developers and grow as a software professional.
+  Currently building projects, studying algorithms and strengthening my
+  foundation in JavaScript, Python and software development.
 </p>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                         STATUS                            -->
-<!-- ========================================================= -->
-
-<h2 align="center">
-  <code>&gt; DEVELOPER_STATUS</code>
-</h2>
-
-<pre align="center">
-STATUS      : ONLINE
-LOCATION    : BRAZIL
-EDUCATION   : INFORMATION TECHNOLOGY @ UFERSA
-FOCUS       : SOFTWARE DEVELOPMENT
-INTEREST    : WEB DEVELOPMENT
-MODE        : LEARNING // BUILDING // EVOLVING
-</pre>
 
 <br>
 
@@ -110,26 +91,7 @@ MODE        : LEARNING // BUILDING // EVOLVING
 <br>
 
 <!-- ========================================================= -->
-<!--                    CURRENT FOCUS                          -->
-<!-- ========================================================= -->
-
-<h2 align="center">
-  <code>&gt; CURRENT_FOCUS</code>
-</h2>
-
-```text
-01 // Software Development
-02 // Web Development
-03 // JavaScript & Python
-04 // Programming Logic
-05 // Algorithms & Data Structures
-06 // Artificial Intelligence
-```
-
-<br>
-
-<!-- ========================================================= -->
-<!--                     FEATURED PROJECT                      -->
+<!--                    FEATURED PROJECT                       -->
 <!-- ========================================================= -->
 
 <h2 align="center">
@@ -146,8 +108,16 @@ MODE        : LEARNING // BUILDING // EVOLVING
 </p>
 
 <p align="center">
-  Designed with focus on usability, responsive design,
-  modern interfaces and user experience.
+  Designed with focus on interface quality, responsiveness,
+  usability and user experience.
+</p>
+
+<p align="center">
+  <img
+    src="preview.png"
+    width="100%"
+    alt="ROGE Sushi Website Preview"
+  />
 </p>
 
 <p align="center">
@@ -176,7 +146,31 @@ MODE        : LEARNING // BUILDING // EVOLVING
 <br>
 
 <!-- ========================================================= -->
-<!--                    DEVELOPMENT STREAK                     -->
+<!--                       CURRENT FOCUS                       -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  <code>&gt; CURRENT_FOCUS</code>
+</h2>
+
+<p align="center">
+  Software Development
+  &nbsp;•&nbsp;
+  Web Development
+  &nbsp;•&nbsp;
+  JavaScript
+  &nbsp;•&nbsp;
+  Python
+  &nbsp;•&nbsp;
+  Algorithms
+  &nbsp;•&nbsp;
+  Artificial Intelligence
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    DEVELOPMENT ACTIVITY                   -->
 <!-- ========================================================= -->
 
 <h2 align="center">
@@ -193,7 +187,7 @@ MODE        : LEARNING // BUILDING // EVOLVING
 <br>
 
 <!-- ========================================================= -->
-<!--                    CONTRIBUTION SNAKE                     -->
+<!--                    CONTRIBUTION MATRIX                    -->
 <!-- ========================================================= -->
 
 <h2 align="center">
@@ -201,75 +195,39 @@ MODE        : LEARNING // BUILDING // EVOLVING
 </h2>
 
 <p align="center">
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/keuryroge/keuryroge/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/keuryroge/keuryroge/output/github-snake.svg"
-    />
-
-    <img
-      alt="Keury Roge Contribution Snake"
-      src="https://raw.githubusercontent.com/keuryroge/keuryroge/output/github-snake.svg"
-    />
-
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/keuryroge/keuryroge/output/github-snake-dark.svg"
+    width="100%"
+    alt="Keury Roge Contribution Snake"
+  />
 </p>
 
 <br>
 
 <!-- ========================================================= -->
-<!--                       PHILOSOPHY                          -->
+<!--                        OPPORTUNITIES                       -->
 <!-- ========================================================= -->
 
 <h2 align="center">
-  <code>&gt; DEVELOPMENT_MINDSET</code>
+  <code>&lt; OPEN_TO_OPPORTUNITIES /&gt;</code>
 </h2>
 
 <p align="center">
-  <code>LEARN</code>
-  &nbsp;&nbsp;→&nbsp;&nbsp;
-  <code>BUILD</code>
-  &nbsp;&nbsp;→&nbsp;&nbsp;
-  <code>TEST</code>
-  &nbsp;&nbsp;→&nbsp;&nbsp;
-  <code>IMPROVE</code>
-  &nbsp;&nbsp;→&nbsp;&nbsp;
-  <code>REPEAT</code>
-</p>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                      OPPORTUNITIES                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">
-  <code>&lt; OPPORTUNITIES /&gt;</code>
-</h2>
-
-<p align="center">
-  Open to opportunities in
+  Interested in opportunities in
   <b>Software Development</b>,
   <b>Web Development</b> and
   technology-related projects.
 </p>
 
 <p align="center">
-  Interested in gaining professional experience,
-  collaborating with development teams
-  and contributing to real-world software.
+  Looking to gain professional experience, contribute to real software
+  and grow alongside development teams.
 </p>
 
 <br>
 
 <!-- ========================================================= -->
-<!--                        CONNECT                            -->
+<!--                          CONNECT                          -->
 <!-- ========================================================= -->
 
 <h2 align="center">
@@ -277,20 +235,18 @@ MODE        : LEARNING // BUILDING // EVOLVING
 </h2>
 
 <p align="center">
-
   <a href="https://github.com/keuryroge">
     <img
       src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
-
 </p>
 
 <br>
 
 <!-- ========================================================= -->
-<!--                         FOOTER                            -->
+<!--                          FOOTER                           -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -302,5 +258,5 @@ MODE        : LEARNING // BUILDING // EVOLVING
 </p>
 
 <p align="center">
-  <code>BUILDING THE NEXT VERSION OF MYSELF.</code>
+  <code>BUILD // LEARN // EVOLVE</code>
 </p>

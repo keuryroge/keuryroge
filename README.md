@@ -37,7 +37,32 @@
 </p>
 
 <br>
+<!-- ===================================================== -->
+<!--               NEON CONTRIBUTION SNAKE                 -->
+<!-- ===================================================== -->
 
+<h2 align="center">
+  <code>&gt; CONTRIBUTION_SNAKE</code>
+</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/keuryroge/keuryroge/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/keuryroge/keuryroge/output/github-snake.svg"
+    />
+    <img
+      alt="Keury Roge Contribution Snake"
+      src="https://raw.githubusercontent.com/keuryroge/keuryroge/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
+<br>
 <h2 align="center">
   <code>&lt; TECH_STACK /&gt;</code>
 </h2>

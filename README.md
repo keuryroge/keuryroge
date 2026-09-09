@@ -1,6 +1,6 @@
-<!-- ========================= -->
-<!--       HERO / BANNER       -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                 KEURY ROGE | GITHUB                   -->
+<!-- ===================================================== -->
 
 <p align="center">
   <img src="8e1c5e47-0ec4-4d5d-b601-6f44192a5c96.png"
@@ -8,57 +8,105 @@
        alt="Keury Roge - Software Developer">
 </p>
 
-<!-- ========================= -->
-<!--       TYPING EFFECT       -->
-<!-- ========================= -->
+<!-- ANIMATED TYPING -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=168BFF&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Developer;Information+Technology+Student;Building+Digital+Experiences;Learning.+Building.+Evolving."
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=168BFF&center=true&vCenter=true&width=800&lines=Software+Developer;Web+Developer;Information+Technology+Student;Building+Digital+Experiences;Learning+%E2%80%A2+Building+%E2%80%A2+Evolving"
+    alt="Typing Animation"
   />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keuryroge&style=for-the-badge&color=006AFF"
-       alt="Profile views">
-</p>
-
----
-
-<h2 align="center">⚡ About Me</h2>
-
-<p align="center">
-Information Technology student at UFERSA focused on
-<b>Software Development</b> and <b>Web Development</b>.
-<br><br>
-I enjoy transforming ideas into modern, responsive and efficient digital experiences,
-while continuously learning new technologies and improving my development skills.
+  <img src="https://komarev.com/ghpvc/?username=keuryroge&label=PROFILE+VIEWS&color=006AFF&style=for-the-badge"
+       alt="Profile Views">
 </p>
 
 <br>
 
-<!-- ========================= -->
-<!--        TECH STACK         -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                       ABOUT                           -->
+<!-- ===================================================== -->
 
-<h2 align="center">⚙️ Tech Stack</h2>
+<h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+  Information Technology student at <b>UFERSA</b> focused on
+  <b>Software Development</b> and <b>Web Development</b>.
 </p>
 
 <p align="center">
-  <b>HTML • CSS • JavaScript • Python • Git • GitHub • VS Code</b>
+  I enjoy transforming ideas into modern, responsive and efficient
+  digital experiences while continuously learning new technologies
+  and improving my development skills.
 </p>
 
 <br>
 
-<!-- ========================= -->
-<!--       CURRENT FOCUS       -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
 
-<h2 align="center">🧠 Currently Exploring</h2>
+<h2 align="center">TECH STACK</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark"
+       alt="Technology Stack">
+</p>
+
+<p align="center">
+  HTML &nbsp;•&nbsp;
+  CSS &nbsp;•&nbsp;
+  JavaScript &nbsp;•&nbsp;
+  Python &nbsp;•&nbsp;
+  Git &nbsp;•&nbsp;
+  GitHub &nbsp;•&nbsp;
+  VS Code
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                  DEVELOPER PROFILE                    -->
+<!-- ===================================================== -->
+
+<h2 align="center">DEVELOPER PROFILE</h2>
+
+```yaml
+name: Keury Roge
+location: Brazil
+
+education:
+  - Information Technology @ UFERSA
+
+focus:
+  - Software Development
+  - Web Development
+  - Algorithms
+  - Artificial Intelligence
+  - Cybersecurity
+
+currently_learning:
+  - Programming Logic
+  - Algorithms
+
+mindset:
+  - Learn
+  - Build
+  - Evolve
+
+goal:
+  - Build modern digital solutions
+  - Work on international projects
+```
+
+<br>
+
+<!-- ===================================================== -->
+<!--                 CURRENTLY EXPLORING                   -->
+<!-- ===================================================== -->
+
+<h2 align="center">CURRENTLY EXPLORING</h2>
 
 <p align="center">
   Software Development
@@ -74,103 +122,86 @@ while continuously learning new technologies and improving my development skills
 
 <br>
 
-<!-- ========================= -->
-<!--      FEATURED PROJECT     -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                  FEATURED PROJECT                     -->
+<!-- ===================================================== -->
 
-<h2 align="center">🚀 Featured Project</h2>
+<h2 align="center">FEATURED PROJECT</h2>
 
 <h3 align="center">🍣 ROGE Sushi</h3>
 
 <p align="center">
-Modern and responsive Japanese restaurant website focused on
-user experience, usability and modern interface design.
+  Modern and responsive Japanese restaurant website focused on
+  user experience, usability and modern interface design.
 </p>
 
 <p align="center">
   <a href="https://github.com/keuryroge/roge-sushi">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white"
+         alt="Source Code">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
+       alt="ROGE Sushi Technologies">
 </p>
 
 <br>
 
-<!-- ========================= -->
-<!--        GITHUB DATA        -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                   DEVELOPMENT STREAK                  -->
+<!-- ===================================================== -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=keuryroge&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true">
-</p>
+<h2 align="center">DEVELOPMENT STREAK</h2>
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=keuryroge&layout=compact&theme=github_dark&hide_border=true">
+  <img
+    src="https://streak-stats.demolab.com?user=keuryroge&theme=github-dark-blue&hide_border=true"
+    alt="Keury Roge GitHub Streak"
+  />
 </p>
 
 <br>
 
-<!-- ========================= -->
-<!--        STREAK DATA        -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                       CONNECT                         -->
+<!-- ===================================================== -->
 
-<h2 align="center">🔥 Development Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=keuryroge&theme=github-dark-blue&hide_border=true">
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--     ACTIVITY GRAPH        -->
-<!-- ========================= -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keuryroge&theme=github-compact&hide_border=true&area=true">
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--          CONNECT          -->
-<!-- ========================= -->
-
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">CONNECT WITH ME</h2>
 
 <p align="center">
 
   <a href="https://github.com/keuryroge">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 
   <a href="COLOQUE-SEU-LINKEDIN-AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-006AFF?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
 </p>
 
 <br>
 
-<!-- ========================= -->
-<!--          FOOTER           -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                       FOOTER                          -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:006AFF,100:020617&section=footer">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:006AFF,100:020617&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </p>
 
 <p align="center">
-  <b>BUILD • LEARN • EVOLVE</b>
+  <b>LEARN • BUILD • EVOLVE</b>
 </p>

@@ -13,11 +13,11 @@
 <br><br>
 
 <a href="https://github.com/keuryroge">
-  <img src="https://img.shields.io/badge/GitHub-keuryroge-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-keuryroge-0B1F3A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/keuryroge/">
-  <img src="https://img.shields.io/badge/LinkedIn-Keury%20Roge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Keury%20Roge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
@@ -28,29 +28,17 @@
 
 ---
 
-<!-- =========================
-     TECHNOLOGY ICONS
-========================= -->
+## `01 / TECHNOLOGIES`
 
 <div align="center">
-
-### `TECHNOLOGIES I WORK WITH`
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" />
 
 </div>
 
-<br>
-
 ---
 
-<!-- =========================
-     WHOAMI
-========================= -->
-
-## `01 / WHOAMI`
+## `02 / WHOAMI`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐

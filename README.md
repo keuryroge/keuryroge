@@ -1,43 +1,41 @@
 <!-- =========================================================
-     KEURY ROGE — GITHUB PROFILE README
+     KEURY ROGE — GITHUB PROFILE
+     Information Technology | Software | Systems
 ========================================================= -->
 
 <div align="center">
 
-<!-- HEADER -->
+<!-- =========================================================
+     HERO
+========================================================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0B1F3A,100:123A63&text=KEURY%20ROGE&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=SOFTWARE%20%7C%20SYSTEMS%20%7C%20TECHNOLOGY&descAlignY=60&descSize=16&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:030712,35:071A33,70:0B2D52,100:123A63&text=KEURY%20ROGE&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=INFORMATION%20TECHNOLOGY%20%7C%20SOFTWARE%20%7C%20SYSTEMS&descAlignY=62&descSize=16&animation=fadeIn"
   width="100%"
 />
 
 <br>
 
-<!-- TYPING -->
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=4DA3FF&center=true&vCenter=true&width=850&lines=Information+Technology+Student;Software+Development;Software+Engineering;Systems+%26+Technology;Building+%7C+Learning+%7C+Improving;Exploring+Artificial+Intelligence"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=850&color=4DA3FF&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Software+Development;Software+Engineering;Systems+%26+Technology;Building+%7C+Learning+%7C+Improving;Exploring+Artificial+Intelligence"
+  alt="Typing animation"
 />
 
 <br><br>
 
-<!-- SOCIAL BUTTONS -->
-
 <a href="https://github.com/keuryroge">
-  <img
-    src="https://img.shields.io/badge/GitHub-keuryroge-0B1F3A?style=for-the-badge&logo=github&logoColor=white"
-  />
+<img
+  src="https://img.shields.io/badge/GITHUB-KEURYROGE-050816?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B1F3A"
+/>
 </a>
 
-<a href="https://www.linkedin.com/in/keuryroge/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Keury%20Roge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
+<a href="https://www.linkedin.com/in/keury-roge-97a2483b3/">
+<img
+  src="https://img.shields.io/badge/LINKEDIN-KEURY%20ROGE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=071A33"
+/>
 </a>
 
 <br><br>
-
-<!-- PROFILE VIEWS -->
 
 <img
   src="https://komarev.com/ghpvc/?username=keuryroge&label=PROFILE%20VIEWS&color=123A63&style=for-the-badge"
@@ -47,35 +45,21 @@
 
 ---
 
-<!-- =========================================================
-     TECHNOLOGIES
-========================================================= -->
-
-## `01 / TECHNOLOGIES`
+# `01 / SYSTEM STATUS`
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark"
-/>
-
-</div>
-
----
-
-<!-- =========================================================
-     WHO AM I
-========================================================= -->
-
-## `02 / WHOAMI`
-
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                        KEURY ROGE                            │
-├──────────────────────────────────────────────────────────────┤
-│ Role       : Information Technology Student                 │
-│ Focus      : Software Development & Systems                 │
-│ Environment: Development / Technology                       │
-│ Status     : Learning • Building • Improving                │
-│ Location   : Brazil 🇧🇷                                      │
-└──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                              KEURY ROGE                                      │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│  STATUS       : ONLINE                                                      │
+│  ROLE         : INFORMATION TECHNOLOGY STUDENT                              │
+│  FOCUS        : SOFTWARE DEVELOPMENT                                        │
+│  INTERESTS    : SYSTEMS • SOFTWARE ENGINEERING • AI                         │
+│  ENVIRONMENT  : DEVELOPMENT • TECHNOLOGY                                    │
+│  MODE         : BUILDING • LEARNING • IMPROVING                             │
+│  LOCATION     : BRAZIL 🇧🇷                                                   │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘

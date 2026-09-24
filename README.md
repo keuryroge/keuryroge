@@ -1,34 +1,32 @@
+## FEATURED PROJECT
+
 <div align="center">
 
-# KEURY ROGE
+# AULORA
 
-### Information Technology Student · Software Development · Systems
-
-Building software, exploring technology and turning ideas into functional products.
-
-<br>
-
-[LinkedIn](SEU_LINKEDIN) · [GitHub](SEU_GITHUB)
+### Educational platform for online classes
 
 </div>
 
----
+Aulora is a platform I'm building to explore real-world
+software development, user experience and web technologies.
 
-## ABOUT
+### What I'm building
 
-I'm Keury Roge, an Information Technology student at UFERSA focused on software development and systems.
+- 🎥 Live class experience
+- 🎙️ Camera and microphone verification
+- 🔊 Audio device testing
+- 💻 Device selection
+- 🔐 Browser permissions
+- ⚡ Real-time media features
+- 🎨 User-focused interface
 
-I learn through practical projects, technical studies and experimentation with different technologies, always looking to understand not only how something works, but how it can be applied to solve real problems.
+### Technologies
 
-Currently, I'm strengthening my foundations in software development, JavaScript, Python, algorithms and Artificial Intelligence while building projects from idea to implementation.
+`JavaScript` · `WebRTC` · `HTML` · `CSS`
 
----
+<div align="center">
 
-## CURRENT FOCUS
+**[ View repository → ]**
 
-```text
-Software Development
-Web Development
-Systems
-Algorithms & Data Structures
-Artificial Intelligence
+</div>

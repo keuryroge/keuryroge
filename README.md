@@ -63,3 +63,20 @@
 │  LOCATION     : BRAZIL 🇧🇷                                                   │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
+---
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/keuryroge/keuryroge/output/github-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+<p align="center">
+  <sub>Contribution activity visualized through code.</sub>
+</p>
+
+---
